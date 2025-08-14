@@ -1,3 +1,4 @@
+console.log("Script loaded");
 document.addEventListener('DOMContentLoaded', function() {
     const myinput = document.getElementById('input');
     const addButton = document.getElementById('addButton');
